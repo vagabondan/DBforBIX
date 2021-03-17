@@ -1,5 +1,9 @@
 # DBforBIX
 
+# Project is not supported anymore and was moved to 
+# https://github.com/vagabondan/node-db4bix
+
+
 DBforBix is the DB monitoring tool for Zabbix. It works like an active Zabbix Proxy by getting configuration from Zabbix Server and sending results back.
 Just copy dist https://github.com/smartmarmot/DBforBIX/tree/master/dist/ to your server, edit configuration and run<br>
 
